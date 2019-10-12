@@ -1,0 +1,54 @@
+#hello {
+	color:purple;
+}
+
+#fon {
+	background-color:#00FF7F;
+}
+
+#text1 {
+	background:yellow;
+}
+
+#text2 {
+	text-decoration:underline;
+}
+
+#color1 {
+	color:red;
+}
+
+#fon2 {
+	background-color:white;
+}
+
+#color3 {
+	color:#C71585;
+	text-decoration:underline;
+}
+
+#color4 {
+	color:#C71585;
+	text-decoration:line-through;
+}
+
+#text4 {
+	font-weight:bold;
+}
+
+#text5 {
+	text-align:center;
+}
+
+#text6 {
+	font-size: 30px;
+}
+
+#blue {
+	color:blue;
+}
+
+#white {
+	background:white;
+	color:blue;
+}
